@@ -41,9 +41,11 @@ AI is an assistant who can answer questions on the Constitution of the Republic 
 4. Get a response based on the context
 
 ## Screenshots
-![img.png](img.png)_
-![img_1.png](img_1.png)
-![img_2.png](img_2.png)
+
+![image](https://github.com/user-attachments/assets/21c0210d-f3ea-47a6-ac39-b6c8d2a07d54)
+![image](https://github.com/user-attachments/assets/7afbddb9-7cd9-4d5f-9fda-6c33f7f264a1)
+
+
 
 ## License
 MIT
